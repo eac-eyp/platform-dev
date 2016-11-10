@@ -1,8 +1,0 @@
-imports:
-  - behat.yml
-
-default:
-  suites:
-    default:
-      filters:
-        tags: "@group:default&&~@wip"
