@@ -1,3 +1,4 @@
+@group:default
 @api @javascript @wip
 Feature: Embedded images
   In order to make my website more attractive
